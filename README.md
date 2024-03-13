@@ -13,9 +13,6 @@
     <!-- github streak start -->
     <img loading="lazy" width=396 src="https://streak-stats.demolab.com/?user=roosip&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00B8B5&border=0D1117&ring=00FA9A&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FA9A&sideLabels=00FA9A&excludeDaysLabel=00FA9A&dates=FFFFFF" alt="current streak stats" />
     <!-- github streak end -->
-    <!-- github stats start -->
-   <img loading="lazy" width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=roosip&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=00FA9A&currStreakLabel=00FA9A&sideLabels=00FA9A&icon_color=00FA9A&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
-    <!-- github stats end -->
 </div>
 <br>
 
@@ -24,11 +21,6 @@
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=roosip&bg_color=0d1117&color=00FA9A&line=00FA9A&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
 <br>
-
-<div align="center">
-    <!-- github most used languages start -->
-    <img loading="lazy" width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=roosip&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00FA9A&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
-</div>
 
 <br>
 
