@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&siroosipe=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Guilherme+mas+pode+me+chamar+de+ROOSIP;Tenho+21+Anos+e+sou+de+São+Paulo;Atualmente+estudo+Análise+e+Desenvolvimento+de+Sistema+na+UNINOVE+e+Ciência+da+Computação+na+UNICSUL;Seja+Muito+bem-vindo!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&siroosipe=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Guilherme+mas+pode+me+chamar+de+ROOSIP;Tenho+21+Anos+e+sou+de+São+Paulo;Atualmente+estudo+Análise+e+Desenvolvimento+de+Sistema+na+UNINOVE;e+Ciência+da+Computação+na+UNICSUL;Seja+Muito+bem-vindo!:%29)](https://git.io/typing-svg)
 
 <!-- my github stats-->
 <div align="center"> 
